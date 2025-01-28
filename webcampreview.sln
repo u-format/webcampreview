@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "displaying_webcam_in_console", "displaying_webcam_in_console\displaying_webcam_in_console.csproj", "{DC3CE55B-048A-4AC5-87EA-31DC7ED34A2E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webcampreview", "webcampreview\webcampreview.csproj", "{C466E21F-3724-417A-B2F5-C473A766F121}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DC3CE55B-048A-4AC5-87EA-31DC7ED34A2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DC3CE55B-048A-4AC5-87EA-31DC7ED34A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DC3CE55B-048A-4AC5-87EA-31DC7ED34A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DC3CE55B-048A-4AC5-87EA-31DC7ED34A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C466E21F-3724-417A-B2F5-C473A766F121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C466E21F-3724-417A-B2F5-C473A766F121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C466E21F-3724-417A-B2F5-C473A766F121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C466E21F-3724-417A-B2F5-C473A766F121}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FC5132C0-DCAD-4E15-9BE8-EBBAAA4114F5}
+		SolutionGuid = {37A6AE41-F851-431B-A8CA-8F1B874D6C39}
 	EndGlobalSection
 EndGlobal

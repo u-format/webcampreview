@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "d5VU8lTKBNq1W7Lwr3UcNgM4bLoAEH2B8jhRAs9H3bgyR/8Mjsv55Ag2s1iS4u8NFSlvtMLLInpb4JNxBwjmJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\4-m4t\\source\\repos\\webcampreview\\webcampreview\\webcampreview.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\4-m4t\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
+    "C:\\Users\\4-m4t\\.nuget\\packages\\aforge.video\\2.2.5\\aforge.video.2.2.5.nupkg.sha512",
+    "C:\\Users\\4-m4t\\.nuget\\packages\\aforge.video.directshow\\2.2.5\\aforge.video.directshow.2.2.5.nupkg.sha512"
+  ],
+  "logs": []
+}
